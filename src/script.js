@@ -63,7 +63,7 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Occator..,',
+'Occator...',
 'Occator Loaded!',
 'Occator Online!',
 'C#, Pawn, JavaScript, CSS, C++, HTML'];
