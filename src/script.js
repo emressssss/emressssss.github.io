@@ -63,9 +63,9 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Soulflyxd Loading..,',
-'Soulflyxd Loaded!',
-'Babalar Online!',
+'Occator..,',
+'Occator Loaded!',
+'Occator Online!',
 'C#, Pawn, JavaScript, CSS, C++, HTML'];
 
 const el = document.querySelector('.text');
